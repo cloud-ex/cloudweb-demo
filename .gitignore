@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+build
+
+config/login.js
+config/api.config.js
+update.sh
+.DS_Store
